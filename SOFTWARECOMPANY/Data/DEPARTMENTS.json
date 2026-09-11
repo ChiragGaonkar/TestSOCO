@@ -1,0 +1,8 @@
+{
+  "header": ["DEPT_ID","DEPT_NAME"],
+  "rows":[
+    ["1","HR"],
+    ["2","IT"],
+    ["3","Admin"],
+  ]
+}
